@@ -8,7 +8,7 @@
   transition: transform 0.3s;
 
   @include respond(tab-port) {
-    padding: 0;
+    padding: 2rem;
   }
   &__icon {
     font-size: 6rem;
